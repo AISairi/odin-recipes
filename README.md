@@ -4,7 +4,7 @@ Introduction
 - This repo will be used to practise on my HTML knowledge on TOP
 
 Skills to show
-- Adding links and images
+- Adding links and images to the page
 - Creating texts with paragraphs and various styles
 
 Objectives
