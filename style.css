@@ -1,0 +1,13 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: large;
+}
+
+.welcome {
+    font-size: 36px;
+}
